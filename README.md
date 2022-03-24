@@ -1,1 +1,1 @@
-cool
+this is cool
